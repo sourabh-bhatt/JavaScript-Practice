@@ -4,7 +4,8 @@
 
 function newWord(word){
     if(word.length >= 2){
-        return word.slice(1);
+        return word.slice(1); 
+        // slive
     }
     else{
         return "";
